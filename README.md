@@ -1,6 +1,8 @@
 # docker-proftpd
 
-A 145.3 MB image for proftpd.  Can be extended with another Dockerfile like this:
+A 145.3 MB image for proftpd.
+
+Can be extended with another Dockerfile like this:
 
 ```
 FROM proftpd
